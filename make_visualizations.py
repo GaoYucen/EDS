@@ -207,6 +207,36 @@ def draw_chip_risk(chip_rows: list[dict]) -> None:
     write_svg(VIS_DIR / "04_chip_risk_ranking.svg", width, height, body)
 
 
+def draw_weak_model_predictions(prediction_rows: list[dict]) -> None:
+    rows = sorted(prediction_rows, key=lambda row: fnum(row.get("weak_model_probability")), reverse=True)[:24]
+    width = 1120
+    row_h = 34
+    height = 100 + row_h * len(rows)
+    left, top, bar_max_w = 250, 78, 660
+    max_score = max((fnum(row.get("weak_model_probability")) for row in rows), default=1.0) or 1.0
+    body = [
+        '<rect width="100%" height="100%" fill="#ffffff"/>',
+        '<text x="32" y="38" class="title">Weak Model Prediction Ranking</text>',
+        '<text x="32" y="60" class="subtitle">Grouped-CV probabilities from the temporary chip-independence weak-label model.</text>',
+    ]
+    for idx, row in enumerate(rows):
+        y = top + idx * row_h
+        score = fnum(row.get("weak_model_probability"))
+        bar_w = int(score / max_score * bar_max_w) if max_score else 0
+        color = "#d64545" if row.get("label_role") == "marked_damaged" else "#27a376"
+        label = f"{short_module(row.get('module_id', ''))} {row.get('dbc_location')}{row.get('chip_position')}"
+        body.extend(
+            [
+                f'<text x="32" y="{y + 20}" class="label">{esc(label)}</text>',
+                f'<text x="150" y="{y + 20}" class="small">{esc(row.get("label_role", ""))}</text>',
+                f'<rect x="{left}" y="{y + 3}" width="{bar_max_w}" height="20" rx="4" fill="#eef2f7"/>',
+                f'<rect x="{left}" y="{y + 3}" width="{bar_w}" height="20" rx="4" fill="{color}"/>',
+                f'<text x="{left + bar_max_w + 18}" y="{y + 20}" class="label">{score:.3f}</text>',
+            ]
+        )
+    write_svg(VIS_DIR / "05_weak_model_prediction_ranking.svg", width, height, body)
+
+
 def main() -> None:
     VIS_DIR.mkdir(parents=True, exist_ok=True)
     chip_rows = read_csv(OUTPUT_DIR / "chip_level_modeling_dataset.csv")
@@ -216,6 +246,9 @@ def main() -> None:
     draw_module_risk(module_rows)
     draw_chip_map(chip_rows)
     draw_chip_risk(chip_rows)
+    prediction_path = OUTPUT_DIR / "weak_chip_predictions.csv"
+    if prediction_path.exists():
+        draw_weak_model_predictions(read_csv(prediction_path))
 
     print(f"Wrote visualizations to: {VIS_DIR}")
 

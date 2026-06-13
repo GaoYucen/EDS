@@ -1,0 +1,107 @@
+﻿{
+  "model_status": "temporary_weak_label_baseline",
+  "important_warning": "This is not a validated production failure model. It assumes chip independence and treats uncolored chips as candidate negatives.",
+  "cross_validation": {
+    "validation": "leave_one_group_module_out",
+    "sample_count": 72,
+    "positive_count": 4,
+    "candidate_negative_count": 68,
+    "roc_auc": 0.45955882352941174,
+    "average_precision": 0.0634854276158624,
+    "threshold_0_5": {
+      "threshold": 0.5,
+      "true_positive": 3,
+      "false_positive": 36,
+      "true_negative": 32,
+      "false_negative": 1,
+      "precision": 0.07692307692307693,
+      "recall": 0.75
+    },
+    "positive_rank_by_module": [
+      {
+        "module_id": "E3003161ABV40298001001K21200697",
+        "positive_sample_id": "E3003161ABV40298001001K21200697__row_11",
+        "positive_location": "V4",
+        "positive_rank_in_module": 15,
+        "module_chip_count": 18,
+        "positive_score": 0.0008589297388791982
+      },
+      {
+        "module_id": "E3003161ABV40298001001K21201308",
+        "positive_sample_id": "E3003161ABV40298001001K21201308__row_20",
+        "positive_location": "U1",
+        "positive_rank_in_module": 7,
+        "module_chip_count": 18,
+        "positive_score": 0.9561879494294606
+      },
+      {
+        "module_id": "E3003161ABV40298001001K21800896",
+        "positive_sample_id": "E3003161ABV40298001001K21800896__row_52",
+        "positive_location": "W3",
+        "positive_rank_in_module": 17,
+        "module_chip_count": 18,
+        "positive_score": 0.8701734457822019
+      },
+      {
+        "module_id": "E3003161ABV40298001001K22002764",
+        "positive_sample_id": "E3003161ABV40298001001K22002764__row_56",
+        "positive_location": "U1",
+        "positive_rank_in_module": 3,
+        "module_chip_count": 18,
+        "positive_score": 0.5847703723711931
+      }
+    ],
+    "mean_positive_rank_in_module": 10.5,
+    "top1_module_recall": 0.0
+  },
+  "final_training": {
+    "training_sample_count": 72,
+    "training_positive_count": 4,
+    "training_candidate_negative_count": 68,
+    "training_roc_auc": 0.9448529411764706,
+    "training_average_precision": 0.46590909090909083,
+    "training_threshold_0_5": {
+      "threshold": 0.5,
+      "true_positive": 4,
+      "false_positive": 14,
+      "true_negative": 54,
+      "false_negative": 0,
+      "precision": 0.2222222222222222,
+      "recall": 1.0
+    },
+    "training_positive_rank_by_module": [
+      {
+        "module_id": "E3003161ABV40298001001K21200697",
+        "positive_sample_id": "E3003161ABV40298001001K21200697__row_11",
+        "positive_location": "V4",
+        "positive_rank_in_module": 1,
+        "module_chip_count": 18,
+        "positive_score": 0.6220718050627664
+      },
+      {
+        "module_id": "E3003161ABV40298001001K21201308",
+        "positive_sample_id": "E3003161ABV40298001001K21201308__row_20",
+        "positive_location": "U1",
+        "positive_rank_in_module": 1,
+        "module_chip_count": 18,
+        "positive_score": 0.7362497842045785
+      },
+      {
+        "module_id": "E3003161ABV40298001001K21800896",
+        "positive_sample_id": "E3003161ABV40298001001K21800896__row_52",
+        "positive_location": "W3",
+        "positive_rank_in_module": 5,
+        "module_chip_count": 18,
+        "positive_score": 0.6314694653647067
+      },
+      {
+        "module_id": "E3003161ABV40298001001K22002764",
+        "positive_sample_id": "E3003161ABV40298001001K22002764__row_56",
+        "positive_location": "U1",
+        "positive_rank_in_module": 1,
+        "module_chip_count": 18,
+        "positive_score": 0.7280851615313391
+      }
+    ]
+  }
+}
