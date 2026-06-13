@@ -1,0 +1,31 @@
+﻿{
+  "chip_workbook": "芯片层级制程数据【加颜色标注】.xlsx",
+  "module_workbook": "模块层级制程数据【加颜色标注】.xlsx",
+  "module_count": 4,
+  "damaged_module_count": 4,
+  "normal_module_count": 0,
+  "chip_level_sample_count": 72,
+  "damaged_chip_count": 4,
+  "candidate_negative_chip_count": 68,
+  "damaged_modules": [
+    "E3003161ABV40298001001K21200697",
+    "E3003161ABV40298001001K21201308",
+    "E3003161ABV40298001001K21800896",
+    "E3003161ABV40298001001K22002764"
+  ],
+  "modules_with_module_level_data": [
+    "E3003161ABV40298001001K21200697",
+    "E3003161ABV40298001001K21201308",
+    "E3003161ABV40298001001K21800896",
+    "E3003161ABV40298001001K22002764"
+  ],
+  "outputs": {
+    "modeling_dataset": "D:\\项目\\故障预测\\Fault_prediction\\outputs\\modeling_dataset.csv",
+    "chip_level_modeling_dataset": "D:\\项目\\故障预测\\Fault_prediction\\outputs\\chip_level_modeling_dataset.csv",
+    "risk_ranking": "D:\\项目\\故障预测\\Fault_prediction\\outputs\\risk_ranking.csv",
+    "chip_level_risk_ranking": "D:\\项目\\故障预测\\Fault_prediction\\outputs\\chip_level_risk_ranking.csv",
+    "top_damage_indicators": "D:\\项目\\故障预测\\Fault_prediction\\outputs\\top_damage_indicators.csv"
+  },
+  "chip_level_modeling_note": "Uncolored chip rows are temporary candidate negatives under the assumption that chips do not interfere with each other. They are weak labels, not confirmed normal samples. Use group_module_id for grouped train/validation splits.",
+  "modeling_note": "This dataset has very few damaged labels. Treat process_anomaly_score as a descriptive risk score, not a validated failure-prediction model. Add more historical normal and damaged modules before training a supervised classifier."
+}

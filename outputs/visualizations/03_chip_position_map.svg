@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="398" viewBox="0 0 1060 398">
+<style>
+text{font-family:Arial,'Microsoft YaHei',sans-serif;fill:#1f2933}
+.title{font-size:22px;font-weight:700}
+.subtitle{font-size:12px;fill:#52606d}
+.axis{stroke:#cbd2d9;stroke-width:1}
+.label{font-size:12px}
+.small{font-size:10px;fill:#52606d}
+</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="38" class="title">Chip Position Map</text>
+<text x="32" y="60" class="subtitle">Red cells are colored rows. Blue intensity indicates chip-level anomaly score among all chips.</text>
+<text x="227.0" y="70" text-anchor="middle" class="small">U1</text>
+<text x="267.0" y="70" text-anchor="middle" class="small">U2</text>
+<text x="307.0" y="70" text-anchor="middle" class="small">U3</text>
+<text x="347.0" y="70" text-anchor="middle" class="small">U4</text>
+<text x="387.0" y="70" text-anchor="middle" class="small">U5</text>
+<text x="427.0" y="70" text-anchor="middle" class="small">U6</text>
+<text x="467.0" y="70" text-anchor="middle" class="small">V1</text>
+<text x="507.0" y="70" text-anchor="middle" class="small">V2</text>
+<text x="547.0" y="70" text-anchor="middle" class="small">V3</text>
+<text x="587.0" y="70" text-anchor="middle" class="small">V4</text>
+<text x="627.0" y="70" text-anchor="middle" class="small">V5</text>
+<text x="667.0" y="70" text-anchor="middle" class="small">V6</text>
+<text x="707.0" y="70" text-anchor="middle" class="small">W1</text>
+<text x="747.0" y="70" text-anchor="middle" class="small">W2</text>
+<text x="787.0" y="70" text-anchor="middle" class="small">W3</text>
+<text x="827.0" y="70" text-anchor="middle" class="small">W4</text>
+<text x="867.0" y="70" text-anchor="middle" class="small">W5</text>
+<text x="907.0" y="70" text-anchor="middle" class="small">W6</text>
+<text x="32" y="104" class="label">21200697</text>
+<rect x="210" y="82" width="34" height="34" rx="4" fill="rgb(164,172,247)" stroke="#9fb3c8"/>
+<title>21200697 U1: candidate_negative score=175.5</title>
+<text x="227.0" y="104" text-anchor="middle" class="small">1</text>
+<rect x="250" y="82" width="34" height="34" rx="4" fill="rgb(166,174,247)" stroke="#9fb3c8"/>
+<title>21200697 U2: candidate_negative score=170.3</title>
+<text x="267.0" y="104" text-anchor="middle" class="small">2</text>
+<rect x="290" y="82" width="34" height="34" rx="4" fill="rgb(169,177,247)" stroke="#9fb3c8"/>
+<title>21200697 U3: candidate_negative score=163.7</title>
+<text x="307.0" y="104" text-anchor="middle" class="small">3</text>
+<rect x="330" y="82" width="34" height="34" rx="4" fill="rgb(170,178,247)" stroke="#9fb3c8"/>
+<title>21200697 U4: candidate_negative score=160.0</title>
+<text x="347.0" y="104" text-anchor="middle" class="small">4</text>
+<rect x="370" y="82" width="34" height="34" rx="4" fill="rgb(175,183,247)" stroke="#9fb3c8"/>
+<title>21200697 U5: candidate_negative score=148.6</title>
+<text x="387.0" y="104" text-anchor="middle" class="small">5</text>
+<rect x="410" y="82" width="34" height="34" rx="4" fill="rgb(173,181,247)" stroke="#9fb3c8"/>
+<title>21200697 U6: candidate_negative score=154.3</title>
+<text x="427.0" y="104" text-anchor="middle" class="small">6</text>
+<rect x="450" y="82" width="34" height="34" rx="4" fill="rgb(175,183,247)" stroke="#9fb3c8"/>
+<title>21200697 V1: candidate_negative score=149.4</title>
+<text x="467.0" y="104" text-anchor="middle" class="small">1</text>
+<rect x="490" y="82" width="34" height="34" rx="4" fill="rgb(174,182,247)" stroke="#9fb3c8"/>
+<title>21200697 V2: candidate_negative score=150.4</title>
+<text x="507.0" y="104" text-anchor="middle" class="small">2</text>
+<rect x="530" y="82" width="34" height="34" rx="4" fill="rgb(172,180,247)" stroke="#9fb3c8"/>
+<title>21200697 V3: candidate_negative score=155.7</title>
+<text x="547.0" y="104" text-anchor="middle" class="small">3</text>
+<rect x="570" y="82" width="34" height="34" rx="4" fill="#d64545" stroke="#922b2b"/>
+<title>21200697 V4: marked_damaged score=155.9</title>
+<text x="587.0" y="104" text-anchor="middle" class="small">4</text>
+<rect x="610" y="82" width="34" height="34" rx="4" fill="rgb(175,183,247)" stroke="#9fb3c8"/>
+<title>21200697 V5: candidate_negative score=148.1</title>
+<text x="627.0" y="104" text-anchor="middle" class="small">5</text>
+<rect x="650" y="82" width="34" height="34" rx="4" fill="rgb(175,183,247)" stroke="#9fb3c8"/>
+<title>21200697 V6: candidate_negative score=149.7</title>
+<text x="667.0" y="104" text-anchor="middle" class="small">6</text>
+<rect x="690" y="82" width="34" height="34" rx="4" fill="rgb(183,191,247)" stroke="#9fb3c8"/>
+<title>21200697 W1: candidate_negative score=130.2</title>
+<text x="707.0" y="104" text-anchor="middle" class="small">1</text>
+<rect x="730" y="82" width="34" height="34" rx="4" fill="rgb(180,188,247)" stroke="#9fb3c8"/>
+<title>21200697 W2: candidate_negative score=138.0</title>
+<text x="747.0" y="104" text-anchor="middle" class="small">2</text>
+<rect x="770" y="82" width="34" height="34" rx="4" fill="rgb(174,182,247)" stroke="#9fb3c8"/>
+<title>21200697 W3: candidate_negative score=151.9</title>
+<text x="787.0" y="104" text-anchor="middle" class="small">3</text>
+<rect x="810" y="82" width="34" height="34" rx="4" fill="rgb(168,176,247)" stroke="#9fb3c8"/>
+<title>21200697 W4: candidate_negative score=164.7</title>
+<text x="827.0" y="104" text-anchor="middle" class="small">4</text>
+<rect x="850" y="82" width="34" height="34" rx="4" fill="rgb(169,177,247)" stroke="#9fb3c8"/>
+<title>21200697 W5: candidate_negative score=163.8</title>
+<text x="867.0" y="104" text-anchor="middle" class="small">5</text>
+<rect x="890" y="82" width="34" height="34" rx="4" fill="rgb(158,166,247)" stroke="#9fb3c8"/>
+<title>21200697 W6: candidate_negative score=187.9</title>
+<text x="907.0" y="104" text-anchor="middle" class="small">6</text>
+<text x="32" y="176" class="label">21201308</text>
+<rect x="210" y="154" width="34" height="34" rx="4" fill="#d64545" stroke="#922b2b"/>
+<title>21201308 U1: marked_damaged score=89.6</title>
+<text x="227.0" y="176" text-anchor="middle" class="small">1</text>
+<rect x="250" y="154" width="34" height="34" rx="4" fill="rgb(196,204,247)" stroke="#9fb3c8"/>
+<title>21201308 U2: candidate_negative score=99.0</title>
+<text x="267.0" y="176" text-anchor="middle" class="small">2</text>
+<rect x="290" y="154" width="34" height="34" rx="4" fill="rgb(178,186,247)" stroke="#9fb3c8"/>
+<title>21201308 U3: candidate_negative score=142.0</title>
+<text x="307.0" y="176" text-anchor="middle" class="small">3</text>
+<rect x="330" y="154" width="34" height="34" rx="4" fill="rgb(189,197,247)" stroke="#9fb3c8"/>
+<title>21201308 U4: candidate_negative score=116.2</title>
+<text x="347.0" y="176" text-anchor="middle" class="small">4</text>
+<rect x="370" y="154" width="34" height="34" rx="4" fill="rgb(203,211,247)" stroke="#9fb3c8"/>
+<title>21201308 U5: candidate_negative score=83.8</title>
+<text x="387.0" y="176" text-anchor="middle" class="small">5</text>
+<rect x="410" y="154" width="34" height="34" rx="4" fill="rgb(209,217,247)" stroke="#9fb3c8"/>
+<title>21201308 U6: candidate_negative score=68.2</title>
+<text x="427.0" y="176" text-anchor="middle" class="small">6</text>
+<rect x="450" y="154" width="34" height="34" rx="4" fill="rgb(194,202,247)" stroke="#9fb3c8"/>
+<title>21201308 V1: candidate_negative score=104.0</title>
+<text x="467.0" y="176" text-anchor="middle" class="small">1</text>
+<rect x="490" y="154" width="34" height="34" rx="4" fill="rgb(173,181,247)" stroke="#9fb3c8"/>
+<title>21201308 V2: candidate_negative score=154.2</title>
+<text x="507.0" y="176" text-anchor="middle" class="small">2</text>
+<rect x="530" y="154" width="34" height="34" rx="4" fill="rgb(192,200,247)" stroke="#9fb3c8"/>
+<title>21201308 V3: candidate_negative score=109.8</title>
+<text x="547.0" y="176" text-anchor="middle" class="small">3</text>
+<rect x="570" y="154" width="34" height="34" rx="4" fill="rgb(190,198,247)" stroke="#9fb3c8"/>
+<title>21201308 V4: candidate_negative score=113.4</title>
+<text x="587.0" y="176" text-anchor="middle" class="small">4</text>
+<rect x="610" y="154" width="34" height="34" rx="4" fill="rgb(206,214,247)" stroke="#9fb3c8"/>
+<title>21201308 V5: candidate_negative score=75.4</title>
+<text x="627.0" y="176" text-anchor="middle" class="small">5</text>
+<rect x="650" y="154" width="34" height="34" rx="4" fill="rgb(205,213,247)" stroke="#9fb3c8"/>
+<title>21201308 V6: candidate_negative score=78.1</title>
+<text x="667.0" y="176" text-anchor="middle" class="small">6</text>
+<rect x="690" y="154" width="34" height="34" rx="4" fill="rgb(184,192,247)" stroke="#9fb3c8"/>
+<title>21201308 W1: candidate_negative score=127.5</title>
+<text x="707.0" y="176" text-anchor="middle" class="small">1</text>
+<rect x="730" y="154" width="34" height="34" rx="4" fill="rgb(203,211,247)" stroke="#9fb3c8"/>
+<title>21201308 W2: candidate_negative score=82.2</title>
+<text x="747.0" y="176" text-anchor="middle" class="small">2</text>
+<rect x="770" y="154" width="34" height="34" rx="4" fill="rgb(206,214,247)" stroke="#9fb3c8"/>
+<title>21201308 W3: candidate_negative score=76.6</title>
+<text x="787.0" y="176" text-anchor="middle" class="small">3</text>
+<rect x="810" y="154" width="34" height="34" rx="4" fill="rgb(199,207,247)" stroke="#9fb3c8"/>
+<title>21201308 W4: candidate_negative score=93.3</title>
+<text x="827.0" y="176" text-anchor="middle" class="small">4</text>
+<rect x="850" y="154" width="34" height="34" rx="4" fill="rgb(181,189,247)" stroke="#9fb3c8"/>
+<title>21201308 W5: candidate_negative score=134.2</title>
+<text x="867.0" y="176" text-anchor="middle" class="small">5</text>
+<rect x="890" y="154" width="34" height="34" rx="4" fill="rgb(207,215,247)" stroke="#9fb3c8"/>
+<title>21201308 W6: candidate_negative score=73.1</title>
+<text x="907.0" y="176" text-anchor="middle" class="small">6</text>
+<text x="32" y="248" class="label">21800896</text>
+<rect x="210" y="226" width="34" height="34" rx="4" fill="rgb(175,183,247)" stroke="#9fb3c8"/>
+<title>21800896 U1: candidate_negative score=148.9</title>
+<text x="227.0" y="248" text-anchor="middle" class="small">1</text>
+<rect x="250" y="226" width="34" height="34" rx="4" fill="rgb(162,170,247)" stroke="#9fb3c8"/>
+<title>21800896 U2: candidate_negative score=179.5</title>
+<text x="267.0" y="248" text-anchor="middle" class="small">2</text>
+<rect x="290" y="226" width="34" height="34" rx="4" fill="rgb(157,165,247)" stroke="#9fb3c8"/>
+<title>21800896 U3: candidate_negative score=190.8</title>
+<text x="307.0" y="248" text-anchor="middle" class="small">3</text>
+<rect x="330" y="226" width="34" height="34" rx="4" fill="rgb(153,161,247)" stroke="#9fb3c8"/>
+<title>21800896 U4: candidate_negative score=199.0</title>
+<text x="347.0" y="248" text-anchor="middle" class="small">4</text>
+<rect x="370" y="226" width="34" height="34" rx="4" fill="rgb(166,174,247)" stroke="#9fb3c8"/>
+<title>21800896 U5: candidate_negative score=169.4</title>
+<text x="387.0" y="248" text-anchor="middle" class="small">5</text>
+<rect x="410" y="226" width="34" height="34" rx="4" fill="rgb(175,183,247)" stroke="#9fb3c8"/>
+<title>21800896 U6: candidate_negative score=147.8</title>
+<text x="427.0" y="248" text-anchor="middle" class="small">6</text>
+<rect x="450" y="226" width="34" height="34" rx="4" fill="rgb(193,201,247)" stroke="#9fb3c8"/>
+<title>21800896 V1: candidate_negative score=105.6</title>
+<text x="467.0" y="248" text-anchor="middle" class="small">1</text>
+<rect x="490" y="226" width="34" height="34" rx="4" fill="rgb(194,202,247)" stroke="#9fb3c8"/>
+<title>21800896 V2: candidate_negative score=105.0</title>
+<text x="507.0" y="248" text-anchor="middle" class="small">2</text>
+<rect x="530" y="226" width="34" height="34" rx="4" fill="rgb(185,193,247)" stroke="#9fb3c8"/>
+<title>21800896 V3: candidate_negative score=126.0</title>
+<text x="547.0" y="248" text-anchor="middle" class="small">3</text>
+<rect x="570" y="226" width="34" height="34" rx="4" fill="rgb(176,184,247)" stroke="#9fb3c8"/>
+<title>21800896 V4: candidate_negative score=145.8</title>
+<text x="587.0" y="248" text-anchor="middle" class="small">4</text>
+<rect x="610" y="226" width="34" height="34" rx="4" fill="rgb(189,197,247)" stroke="#9fb3c8"/>
+<title>21800896 V5: candidate_negative score=116.5</title>
+<text x="627.0" y="248" text-anchor="middle" class="small">5</text>
+<rect x="650" y="226" width="34" height="34" rx="4" fill="rgb(195,203,247)" stroke="#9fb3c8"/>
+<title>21800896 V6: candidate_negative score=103.0</title>
+<text x="667.0" y="248" text-anchor="middle" class="small">6</text>
+<rect x="690" y="226" width="34" height="34" rx="4" fill="rgb(194,202,247)" stroke="#9fb3c8"/>
+<title>21800896 W1: candidate_negative score=104.8</title>
+<text x="707.0" y="248" text-anchor="middle" class="small">1</text>
+<rect x="730" y="226" width="34" height="34" rx="4" fill="rgb(202,210,247)" stroke="#9fb3c8"/>
+<title>21800896 W2: candidate_negative score=84.8</title>
+<text x="747.0" y="248" text-anchor="middle" class="small">2</text>
+<rect x="770" y="226" width="34" height="34" rx="4" fill="#d64545" stroke="#922b2b"/>
+<title>21800896 W3: marked_damaged score=86.0</title>
+<text x="787.0" y="248" text-anchor="middle" class="small">3</text>
+<rect x="810" y="226" width="34" height="34" rx="4" fill="rgb(200,208,247)" stroke="#9fb3c8"/>
+<title>21800896 W4: candidate_negative score=90.8</title>
+<text x="827.0" y="248" text-anchor="middle" class="small">4</text>
+<rect x="850" y="226" width="34" height="34" rx="4" fill="rgb(198,206,247)" stroke="#9fb3c8"/>
+<title>21800896 W5: candidate_negative score=95.2</title>
+<text x="867.0" y="248" text-anchor="middle" class="small">5</text>
+<rect x="890" y="226" width="34" height="34" rx="4" fill="rgb(199,207,247)" stroke="#9fb3c8"/>
+<title>21800896 W6: candidate_negative score=93.5</title>
+<text x="907.0" y="248" text-anchor="middle" class="small">6</text>
+<text x="32" y="320" class="label">22002764</text>
+<rect x="210" y="298" width="34" height="34" rx="4" fill="#d64545" stroke="#922b2b"/>
+<title>22002764 U1: marked_damaged score=54.1</title>
+<text x="227.0" y="320" text-anchor="middle" class="small">1</text>
+<rect x="250" y="298" width="34" height="34" rx="4" fill="rgb(213,221,247)" stroke="#9fb3c8"/>
+<title>22002764 U2: candidate_negative score=60.5</title>
+<text x="267.0" y="320" text-anchor="middle" class="small">2</text>
+<rect x="290" y="298" width="34" height="34" rx="4" fill="rgb(215,223,247)" stroke="#9fb3c8"/>
+<title>22002764 U3: candidate_negative score=53.8</title>
+<text x="307.0" y="320" text-anchor="middle" class="small">3</text>
+<rect x="330" y="298" width="34" height="34" rx="4" fill="rgb(217,225,247)" stroke="#9fb3c8"/>
+<title>22002764 U4: candidate_negative score=49.4</title>
+<text x="347.0" y="320" text-anchor="middle" class="small">4</text>
+<rect x="370" y="298" width="34" height="34" rx="4" fill="rgb(219,227,247)" stroke="#9fb3c8"/>
+<title>22002764 U5: candidate_negative score=46.0</title>
+<text x="387.0" y="320" text-anchor="middle" class="small">5</text>
+<rect x="410" y="298" width="34" height="34" rx="4" fill="rgb(216,224,247)" stroke="#9fb3c8"/>
+<title>22002764 U6: candidate_negative score=52.5</title>
+<text x="427.0" y="320" text-anchor="middle" class="small">6</text>
+<rect x="450" y="298" width="34" height="34" rx="4" fill="rgb(195,203,247)" stroke="#9fb3c8"/>
+<title>22002764 V1: candidate_negative score=102.0</title>
+<text x="467.0" y="320" text-anchor="middle" class="small">1</text>
+<rect x="490" y="298" width="34" height="34" rx="4" fill="rgb(195,203,247)" stroke="#9fb3c8"/>
+<title>22002764 V2: candidate_negative score=101.6</title>
+<text x="507.0" y="320" text-anchor="middle" class="small">2</text>
+<rect x="530" y="298" width="34" height="34" rx="4" fill="rgb(192,200,247)" stroke="#9fb3c8"/>
+<title>22002764 V3: candidate_negative score=109.2</title>
+<text x="547.0" y="320" text-anchor="middle" class="small">3</text>
+<rect x="570" y="298" width="34" height="34" rx="4" fill="rgb(194,202,247)" stroke="#9fb3c8"/>
+<title>22002764 V4: candidate_negative score=104.3</title>
+<text x="587.0" y="320" text-anchor="middle" class="small">4</text>
+<rect x="610" y="298" width="34" height="34" rx="4" fill="rgb(196,204,247)" stroke="#9fb3c8"/>
+<title>22002764 V5: candidate_negative score=99.3</title>
+<text x="627.0" y="320" text-anchor="middle" class="small">5</text>
+<rect x="650" y="298" width="34" height="34" rx="4" fill="rgb(195,203,247)" stroke="#9fb3c8"/>
+<title>22002764 V6: candidate_negative score=100.8</title>
+<text x="667.0" y="320" text-anchor="middle" class="small">6</text>
+<rect x="690" y="298" width="34" height="34" rx="4" fill="rgb(190,198,247)" stroke="#9fb3c8"/>
+<title>22002764 W1: candidate_negative score=112.5</title>
+<text x="707.0" y="320" text-anchor="middle" class="small">1</text>
+<rect x="730" y="298" width="34" height="34" rx="4" fill="rgb(184,192,247)" stroke="#9fb3c8"/>
+<title>22002764 W2: candidate_negative score=126.7</title>
+<text x="747.0" y="320" text-anchor="middle" class="small">2</text>
+<rect x="770" y="298" width="34" height="34" rx="4" fill="rgb(185,193,247)" stroke="#9fb3c8"/>
+<title>22002764 W3: candidate_negative score=126.1</title>
+<text x="787.0" y="320" text-anchor="middle" class="small">3</text>
+<rect x="810" y="298" width="34" height="34" rx="4" fill="rgb(185,193,247)" stroke="#9fb3c8"/>
+<title>22002764 W4: candidate_negative score=125.6</title>
+<text x="827.0" y="320" text-anchor="middle" class="small">4</text>
+<rect x="850" y="298" width="34" height="34" rx="4" fill="rgb(191,199,247)" stroke="#9fb3c8"/>
+<title>22002764 W5: candidate_negative score=111.2</title>
+<text x="867.0" y="320" text-anchor="middle" class="small">5</text>
+<rect x="890" y="298" width="34" height="34" rx="4" fill="rgb(192,200,247)" stroke="#9fb3c8"/>
+<title>22002764 W6: candidate_negative score=110.0</title>
+<text x="907.0" y="320" text-anchor="middle" class="small">6</text>
+<rect x="210" y="354" width="18" height="18" rx="3" fill="#d64545"/>
+<text x="236" y="368" class="small">marked_damaged</text>
+<rect x="380" y="354" width="18" height="18" rx="3" fill="#b8c7e8" stroke="#9fb3c8"/>
+<text x="406" y="368" class="small">candidate_negative</text>
+</svg>
