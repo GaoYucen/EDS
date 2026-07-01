@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="730" viewBox="0 0 1080 730">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="30" y="34" font-family="Arial, sans-serif" font-size="22" font-weight="700">Known-Failure Screening Rank</text>
+<text x="30" y="55" font-family="Arial, sans-serif" font-size="12" fill="#555">Orange = confirmed failed chip; bar length = screening_score.</text>
+<text x="30" y="88" font-family="Arial, sans-serif" font-size="15" font-weight="700">21200697</text>
+<text x="56" y="112" font-family="Arial, sans-serif" font-size="9" fill="#333"> 1. V3 V_H</text>
+<rect x="245" y="104" width="525.7" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="112" font-family="Arial, sans-serif" font-size="9" fill="#333">0.809</text>
+<text x="56" y="119" font-family="Arial, sans-serif" font-size="9" fill="#333"> 2. U6 U_L</text>
+<rect x="245" y="111" width="487.5" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="119" font-family="Arial, sans-serif" font-size="9" fill="#333">0.750</text>
+<text x="56" y="126" font-family="Arial, sans-serif" font-size="9" fill="#333"> 3. V4 V_L</text>
+<rect x="245" y="118" width="458.8" height="10" rx="1" fill="#d55e00" opacity="0.82"/>
+<text x="905" y="126" font-family="Arial, sans-serif" font-size="9" fill="#333">0.706</text>
+<text x="56" y="133" font-family="Arial, sans-serif" font-size="9" fill="#333"> 4. U5 U_L</text>
+<rect x="245" y="125" width="449.3" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="133" font-family="Arial, sans-serif" font-size="9" fill="#333">0.691</text>
+<text x="56" y="140" font-family="Arial, sans-serif" font-size="9" fill="#333"> 5. V5 V_L</text>
+<rect x="245" y="132" width="401.5" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="140" font-family="Arial, sans-serif" font-size="9" fill="#333">0.618</text>
+<text x="56" y="147" font-family="Arial, sans-serif" font-size="9" fill="#333"> 6. U1 U_H</text>
+<rect x="245" y="139" width="372.8" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="147" font-family="Arial, sans-serif" font-size="9" fill="#333">0.574</text>
+<text x="56" y="154" font-family="Arial, sans-serif" font-size="9" fill="#333"> 7. U4 U_L</text>
+<rect x="245" y="146" width="372.8" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="154" font-family="Arial, sans-serif" font-size="9" fill="#333">0.574</text>
+<text x="56" y="161" font-family="Arial, sans-serif" font-size="9" fill="#333"> 8. W5 W_L</text>
+<rect x="245" y="153" width="344.1" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="161" font-family="Arial, sans-serif" font-size="9" fill="#333">0.529</text>
+<text x="56" y="168" font-family="Arial, sans-serif" font-size="9" fill="#333"> 9. W2 W_H</text>
+<rect x="245" y="160" width="315.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="168" font-family="Arial, sans-serif" font-size="9" fill="#333">0.485</text>
+<text x="56" y="175" font-family="Arial, sans-serif" font-size="9" fill="#333">10. V6 V_L</text>
+<rect x="245" y="167" width="305.9" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="175" font-family="Arial, sans-serif" font-size="9" fill="#333">0.471</text>
+<text x="56" y="182" font-family="Arial, sans-serif" font-size="9" fill="#333">11. W1 W_H</text>
+<rect x="245" y="174" width="296.3" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="182" font-family="Arial, sans-serif" font-size="9" fill="#333">0.456</text>
+<text x="56" y="189" font-family="Arial, sans-serif" font-size="9" fill="#333">12. V2 V_H</text>
+<rect x="245" y="181" width="286.8" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="189" font-family="Arial, sans-serif" font-size="9" fill="#333">0.441</text>
+<text x="56" y="196" font-family="Arial, sans-serif" font-size="9" fill="#333">13. U3 U_H</text>
+<rect x="245" y="188" width="239.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="196" font-family="Arial, sans-serif" font-size="9" fill="#333">0.368</text>
+<text x="56" y="203" font-family="Arial, sans-serif" font-size="9" fill="#333">14. W4 W_L</text>
+<rect x="245" y="195" width="239.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="203" font-family="Arial, sans-serif" font-size="9" fill="#333">0.368</text>
+<text x="56" y="210" font-family="Arial, sans-serif" font-size="9" fill="#333">15. W3 W_H</text>
+<rect x="245" y="202" width="229.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="210" font-family="Arial, sans-serif" font-size="9" fill="#333">0.353</text>
+<text x="56" y="217" font-family="Arial, sans-serif" font-size="9" fill="#333">16. V1 V_H</text>
+<rect x="245" y="209" width="229.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="217" font-family="Arial, sans-serif" font-size="9" fill="#333">0.353</text>
+<text x="56" y="224" font-family="Arial, sans-serif" font-size="9" fill="#333">17. U2 U_H</text>
+<rect x="245" y="216" width="191.2" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="224" font-family="Arial, sans-serif" font-size="9" fill="#333">0.294</text>
+<text x="56" y="231" font-family="Arial, sans-serif" font-size="9" fill="#333">18. W6 W_L</text>
+<rect x="245" y="223" width="105.1" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="231" font-family="Arial, sans-serif" font-size="9" fill="#333">0.162</text>
+<line x1="30" y1="234" x2="1050" y2="234" stroke="#e6e6e6"/>
+<text x="30" y="253" font-family="Arial, sans-serif" font-size="15" font-weight="700">21201308</text>
+<text x="56" y="277" font-family="Arial, sans-serif" font-size="9" fill="#333"> 1. U1 U_H</text>
+<rect x="245" y="269" width="602.2" height="10" rx="1" fill="#d55e00" opacity="0.82"/>
+<text x="905" y="277" font-family="Arial, sans-serif" font-size="9" fill="#333">0.926</text>
+<text x="56" y="284" font-family="Arial, sans-serif" font-size="9" fill="#333"> 2. V4 V_L</text>
+<rect x="245" y="276" width="477.9" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="284" font-family="Arial, sans-serif" font-size="9" fill="#333">0.735</text>
+<text x="56" y="291" font-family="Arial, sans-serif" font-size="9" fill="#333"> 3. U5 U_L</text>
+<rect x="245" y="283" width="430.1" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="291" font-family="Arial, sans-serif" font-size="9" fill="#333">0.662</text>
+<text x="56" y="298" font-family="Arial, sans-serif" font-size="9" fill="#333"> 4. U2 U_H</text>
+<rect x="245" y="290" width="420.6" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="298" font-family="Arial, sans-serif" font-size="9" fill="#333">0.647</text>
+<text x="56" y="305" font-family="Arial, sans-serif" font-size="9" fill="#333"> 5. W2 W_H</text>
+<rect x="245" y="297" width="411.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="305" font-family="Arial, sans-serif" font-size="9" fill="#333">0.632</text>
+<text x="56" y="312" font-family="Arial, sans-serif" font-size="9" fill="#333"> 6. U3 U_H</text>
+<rect x="245" y="304" width="334.6" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="312" font-family="Arial, sans-serif" font-size="9" fill="#333">0.515</text>
+<text x="56" y="319" font-family="Arial, sans-serif" font-size="9" fill="#333"> 7. W6 W_L</text>
+<rect x="245" y="311" width="325.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="319" font-family="Arial, sans-serif" font-size="9" fill="#333">0.500</text>
+<text x="56" y="326" font-family="Arial, sans-serif" font-size="9" fill="#333"> 8. W1 W_H</text>
+<rect x="245" y="318" width="325.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="326" font-family="Arial, sans-serif" font-size="9" fill="#333">0.500</text>
+<text x="56" y="333" font-family="Arial, sans-serif" font-size="9" fill="#333"> 9. V5 V_L</text>
+<rect x="245" y="325" width="305.9" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="333" font-family="Arial, sans-serif" font-size="9" fill="#333">0.471</text>
+<text x="56" y="340" font-family="Arial, sans-serif" font-size="9" fill="#333">10. U6 U_L</text>
+<rect x="245" y="332" width="296.3" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="340" font-family="Arial, sans-serif" font-size="9" fill="#333">0.456</text>
+<text x="56" y="347" font-family="Arial, sans-serif" font-size="9" fill="#333">11. V1 V_H</text>
+<rect x="245" y="339" width="286.8" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="347" font-family="Arial, sans-serif" font-size="9" fill="#333">0.441</text>
+<text x="56" y="354" font-family="Arial, sans-serif" font-size="9" fill="#333">12. W5 W_L</text>
+<rect x="245" y="346" width="277.2" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="354" font-family="Arial, sans-serif" font-size="9" fill="#333">0.426</text>
+<text x="56" y="361" font-family="Arial, sans-serif" font-size="9" fill="#333">13. U4 U_L</text>
+<rect x="245" y="353" width="267.6" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="361" font-family="Arial, sans-serif" font-size="9" fill="#333">0.412</text>
+<text x="56" y="368" font-family="Arial, sans-serif" font-size="9" fill="#333">14. W4 W_L</text>
+<rect x="245" y="360" width="248.5" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="368" font-family="Arial, sans-serif" font-size="9" fill="#333">0.382</text>
+<text x="56" y="375" font-family="Arial, sans-serif" font-size="9" fill="#333">15. W3 W_H</text>
+<rect x="245" y="367" width="239.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="375" font-family="Arial, sans-serif" font-size="9" fill="#333">0.368</text>
+<text x="56" y="382" font-family="Arial, sans-serif" font-size="9" fill="#333">16. V2 V_H</text>
+<rect x="245" y="374" width="210.3" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="382" font-family="Arial, sans-serif" font-size="9" fill="#333">0.324</text>
+<text x="56" y="389" font-family="Arial, sans-serif" font-size="9" fill="#333">17. V3 V_H</text>
+<rect x="245" y="381" width="200.7" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="389" font-family="Arial, sans-serif" font-size="9" fill="#333">0.309</text>
+<text x="56" y="396" font-family="Arial, sans-serif" font-size="9" fill="#333">18. V6 V_L</text>
+<rect x="245" y="388" width="191.2" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="396" font-family="Arial, sans-serif" font-size="9" fill="#333">0.294</text>
+<line x1="30" y1="399" x2="1050" y2="399" stroke="#e6e6e6"/>
+<text x="30" y="418" font-family="Arial, sans-serif" font-size="15" font-weight="700">21800896</text>
+<text x="56" y="442" font-family="Arial, sans-serif" font-size="9" fill="#333"> 1. W4 W_L</text>
+<rect x="245" y="434" width="468.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="442" font-family="Arial, sans-serif" font-size="9" fill="#333">0.721</text>
+<text x="56" y="449" font-family="Arial, sans-serif" font-size="9" fill="#333"> 2. W5 W_L</text>
+<rect x="245" y="441" width="430.1" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="449" font-family="Arial, sans-serif" font-size="9" fill="#333">0.662</text>
+<text x="56" y="456" font-family="Arial, sans-serif" font-size="9" fill="#333"> 3. W3 W_H</text>
+<rect x="245" y="448" width="420.6" height="10" rx="1" fill="#d55e00" opacity="0.82"/>
+<text x="905" y="456" font-family="Arial, sans-serif" font-size="9" fill="#333">0.647</text>
+<text x="56" y="463" font-family="Arial, sans-serif" font-size="9" fill="#333"> 4. W6 W_L</text>
+<rect x="245" y="455" width="411.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="463" font-family="Arial, sans-serif" font-size="9" fill="#333">0.632</text>
+<text x="56" y="470" font-family="Arial, sans-serif" font-size="9" fill="#333"> 5. W2 W_H</text>
+<rect x="245" y="462" width="391.9" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="470" font-family="Arial, sans-serif" font-size="9" fill="#333">0.603</text>
+<text x="56" y="477" font-family="Arial, sans-serif" font-size="9" fill="#333"> 6. W1 W_H</text>
+<rect x="245" y="469" width="382.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="477" font-family="Arial, sans-serif" font-size="9" fill="#333">0.588</text>
+<text x="56" y="484" font-family="Arial, sans-serif" font-size="9" fill="#333"> 7. V2 V_H</text>
+<rect x="245" y="476" width="334.6" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="484" font-family="Arial, sans-serif" font-size="9" fill="#333">0.515</text>
+<text x="56" y="491" font-family="Arial, sans-serif" font-size="9" fill="#333"> 8. V3 V_H</text>
+<rect x="245" y="483" width="334.6" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="491" font-family="Arial, sans-serif" font-size="9" fill="#333">0.515</text>
+<text x="56" y="498" font-family="Arial, sans-serif" font-size="9" fill="#333"> 9. U1 U_H</text>
+<rect x="245" y="490" width="315.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="498" font-family="Arial, sans-serif" font-size="9" fill="#333">0.485</text>
+<text x="56" y="505" font-family="Arial, sans-serif" font-size="9" fill="#333">10. V6 V_L</text>
+<rect x="245" y="497" width="315.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="505" font-family="Arial, sans-serif" font-size="9" fill="#333">0.485</text>
+<text x="56" y="512" font-family="Arial, sans-serif" font-size="9" fill="#333">11. U2 U_H</text>
+<rect x="245" y="504" width="315.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="512" font-family="Arial, sans-serif" font-size="9" fill="#333">0.485</text>
+<text x="56" y="519" font-family="Arial, sans-serif" font-size="9" fill="#333">12. U6 U_L</text>
+<rect x="245" y="511" width="296.3" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="519" font-family="Arial, sans-serif" font-size="9" fill="#333">0.456</text>
+<text x="56" y="526" font-family="Arial, sans-serif" font-size="9" fill="#333">13. V1 V_H</text>
+<rect x="245" y="518" width="258.1" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="526" font-family="Arial, sans-serif" font-size="9" fill="#333">0.397</text>
+<text x="56" y="533" font-family="Arial, sans-serif" font-size="9" fill="#333">14. V5 V_L</text>
+<rect x="245" y="525" width="258.1" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="533" font-family="Arial, sans-serif" font-size="9" fill="#333">0.397</text>
+<text x="56" y="540" font-family="Arial, sans-serif" font-size="9" fill="#333">15. U5 U_L</text>
+<rect x="245" y="532" width="248.5" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="540" font-family="Arial, sans-serif" font-size="9" fill="#333">0.382</text>
+<text x="56" y="547" font-family="Arial, sans-serif" font-size="9" fill="#333">16. U3 U_H</text>
+<rect x="245" y="539" width="239.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="547" font-family="Arial, sans-serif" font-size="9" fill="#333">0.368</text>
+<text x="56" y="554" font-family="Arial, sans-serif" font-size="9" fill="#333">17. U4 U_L</text>
+<rect x="245" y="546" width="219.9" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="554" font-family="Arial, sans-serif" font-size="9" fill="#333">0.338</text>
+<text x="56" y="561" font-family="Arial, sans-serif" font-size="9" fill="#333">18. V4 V_L</text>
+<rect x="245" y="553" width="210.3" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="561" font-family="Arial, sans-serif" font-size="9" fill="#333">0.324</text>
+<line x1="30" y1="564" x2="1050" y2="564" stroke="#e6e6e6"/>
+<text x="30" y="583" font-family="Arial, sans-serif" font-size="15" font-weight="700">22002764</text>
+<text x="56" y="607" font-family="Arial, sans-serif" font-size="9" fill="#333"> 1. U4 U_L</text>
+<rect x="245" y="599" width="468.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="607" font-family="Arial, sans-serif" font-size="9" fill="#333">0.721</text>
+<text x="56" y="614" font-family="Arial, sans-serif" font-size="9" fill="#333"> 2. U1 U_H</text>
+<rect x="245" y="606" width="411.0" height="10" rx="1" fill="#d55e00" opacity="0.82"/>
+<text x="905" y="614" font-family="Arial, sans-serif" font-size="9" fill="#333">0.632</text>
+<text x="56" y="621" font-family="Arial, sans-serif" font-size="9" fill="#333"> 3. U3 U_H</text>
+<rect x="245" y="613" width="411.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="621" font-family="Arial, sans-serif" font-size="9" fill="#333">0.632</text>
+<text x="56" y="628" font-family="Arial, sans-serif" font-size="9" fill="#333"> 4. U2 U_H</text>
+<rect x="245" y="620" width="391.9" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="628" font-family="Arial, sans-serif" font-size="9" fill="#333">0.603</text>
+<text x="56" y="635" font-family="Arial, sans-serif" font-size="9" fill="#333"> 5. U5 U_L</text>
+<rect x="245" y="627" width="391.9" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="635" font-family="Arial, sans-serif" font-size="9" fill="#333">0.603</text>
+<text x="56" y="642" font-family="Arial, sans-serif" font-size="9" fill="#333"> 6. V6 V_L</text>
+<rect x="245" y="634" width="372.8" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="642" font-family="Arial, sans-serif" font-size="9" fill="#333">0.574</text>
+<text x="56" y="649" font-family="Arial, sans-serif" font-size="9" fill="#333"> 7. V1 V_H</text>
+<rect x="245" y="641" width="363.2" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="649" font-family="Arial, sans-serif" font-size="9" fill="#333">0.559</text>
+<text x="56" y="656" font-family="Arial, sans-serif" font-size="9" fill="#333"> 8. U6 U_L</text>
+<rect x="245" y="648" width="344.1" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="656" font-family="Arial, sans-serif" font-size="9" fill="#333">0.529</text>
+<text x="56" y="663" font-family="Arial, sans-serif" font-size="9" fill="#333"> 9. V2 V_H</text>
+<rect x="245" y="655" width="325.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="663" font-family="Arial, sans-serif" font-size="9" fill="#333">0.500</text>
+<text x="56" y="670" font-family="Arial, sans-serif" font-size="9" fill="#333">10. V5 V_L</text>
+<rect x="245" y="662" width="325.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="670" font-family="Arial, sans-serif" font-size="9" fill="#333">0.500</text>
+<text x="56" y="677" font-family="Arial, sans-serif" font-size="9" fill="#333">11. W1 W_H</text>
+<rect x="245" y="669" width="315.4" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="677" font-family="Arial, sans-serif" font-size="9" fill="#333">0.485</text>
+<text x="56" y="684" font-family="Arial, sans-serif" font-size="9" fill="#333">12. W2 W_H</text>
+<rect x="245" y="676" width="286.8" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="684" font-family="Arial, sans-serif" font-size="9" fill="#333">0.441</text>
+<text x="56" y="691" font-family="Arial, sans-serif" font-size="9" fill="#333">13. W6 W_L</text>
+<rect x="245" y="683" width="277.2" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="691" font-family="Arial, sans-serif" font-size="9" fill="#333">0.426</text>
+<text x="56" y="698" font-family="Arial, sans-serif" font-size="9" fill="#333">14. V4 V_L</text>
+<rect x="245" y="690" width="248.5" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="698" font-family="Arial, sans-serif" font-size="9" fill="#333">0.382</text>
+<text x="56" y="705" font-family="Arial, sans-serif" font-size="9" fill="#333">15. W3 W_H</text>
+<rect x="245" y="697" width="248.5" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="705" font-family="Arial, sans-serif" font-size="9" fill="#333">0.382</text>
+<text x="56" y="712" font-family="Arial, sans-serif" font-size="9" fill="#333">16. W4 W_L</text>
+<rect x="245" y="704" width="248.5" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="712" font-family="Arial, sans-serif" font-size="9" fill="#333">0.382</text>
+<text x="56" y="719" font-family="Arial, sans-serif" font-size="9" fill="#333">17. W5 W_L</text>
+<rect x="245" y="711" width="239.0" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="719" font-family="Arial, sans-serif" font-size="9" fill="#333">0.368</text>
+<text x="56" y="726" font-family="Arial, sans-serif" font-size="9" fill="#333">18. V3 V_H</text>
+<rect x="245" y="718" width="181.6" height="10" rx="1" fill="#4c78a8" opacity="0.82"/>
+<text x="905" y="726" font-family="Arial, sans-serif" font-size="9" fill="#333">0.279</text>
+<line x1="30" y1="729" x2="1050" y2="729" stroke="#e6e6e6"/>
+</svg>

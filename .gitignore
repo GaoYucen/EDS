@@ -2,3 +2,4 @@ __pycache__/
 *.py[cod]
 outputs/pycache_check/
 pycache_check/
+.DS_Store
