@@ -3,3 +3,4 @@ __pycache__/
 outputs/pycache_check/
 pycache_check/
 .DS_Store
+*.xlsx
